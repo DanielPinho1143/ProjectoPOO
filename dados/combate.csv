@@ -1,0 +1,3 @@
+nome,tipo,servico,origem,mobilidade,variante,motor,peso,velocidade,principal,secundario,tripulacao,capacidade/modelo,tempo
+324,artilharia-autopropulsada,3232,TR,rodas,6x6,32,32,32,2A46M,2A46M,32
+32,carro-combate,3232,CH,lagarta,borracha,23,32,32,2A46M,2A46M,32,carousel/cassette,3.3
